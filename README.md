@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ekansh Singh</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">Hi there, I am Ekansh Singh I'm a scrappy, highly motivated problem solver. Mildly obsessed with MERN Stack</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekanshsin23&label=Profile%20views&color=0e75b6&style=flat" alt="ekanshsin23" /> </p>
 
