@@ -5,13 +5,11 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [https://64a95ac66a675c7a7ac4cc43--golden-gnome-c3b5e6.netlify.app/](https://64a95ac66a675c7a7ac4cc43--golden-gnome-c3b5e6.netlify.app/)
-
 - 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **ekanshsin232@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/cnO19](https://shorturl.at/cnO19)
+- 📄 Know about my experiences [https://shorturl.at/CbztQ](https://shorturl.at/CbztQ).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
